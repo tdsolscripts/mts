@@ -13,3 +13,6 @@
  
 ## Название проекта: mts  
 #### Замененные данные в файлах: <br /> dbname = YOUR_DBNAME<br />- host = YOUR_HOST<br />- token = YOUR_TOKEN<br />- port = YOUR_PORT<br />- password = YOUR_PASSWORD<br />- port = YOUR_USER<br />- aws_secret_access_key = YOUR_AWS_ACCESS_ACCESS_KEY<br />- aws_access_key_id = YOUR_AWS_ACCESS_KEY_ID 
+ 
+## Название проекта: mts  
+#### Замененные данные в файлах: <br /> dbname = YOUR_DBNAME- host = YOUR_HOST- token = YOUR_TOKEN- port = YOUR_PORT- password = YOUR_PASSWORD- port = YOUR_USER- aws_secret_access_key = YOUR_AWS_ACCESS_ACCESS_KEY- aws_access_key_id = YOUR_AWS_ACCESS_KEY_ID 
